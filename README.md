@@ -291,10 +291,9 @@ This open-source repository is perfect for:
 | **No Learning Curve** | ✅ Natural language | ❌ Hours of tutorials | ❌ Steep | ❌ Moderate | ❌ Very steep | ✅ |
 | **One-Click Shopify** | ✅ **Only one** | ❌ Complex | ❌ Plugins | ❌ Not supported | ❌ Custom code | ❌ |
 | **Shopify Integration** | ✅ Native GraphQL | ⚠️ Buy Button only | ⚠️ WooCommerce conflict | ❌ | ⚠️ Complex | ❌ |
-| **Open Source Core** | ✅ MIT License | ❌ | ⚠️ GPL (complex) | ❌ | ❌ | ❌ |
+| **Open Source Core** | ✅ Apache License | ❌ | ⚠️ GPL (complex) | ❌ | ❌ | ❌ |
 | **Export Clean Code** | ✅ HTML/CSS/JS | ⚠️ Locked in | ⚠️ Messy | ⚠️ Locked in | ✅ | ❌ |
 | **Small Business Friendly** | ✅ Dead simple | ⚠️ Complex pricing | ⚠️ Technical | ⚠️ Limited | ❌ Expensive | ⚠️ Basic |
-| **Real-Time Preview** | ✅ WebSocket | ✅ | ⚠️ Slow | ✅ | ✅ | ⚠️ |
 
 ---
 
