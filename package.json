@@ -1,0 +1,43 @@
+{
+  "name": "vibe-otter-lite",
+  "version": "1.0.0",
+  "description": "Open-source hybrid AI + drag-and-drop website builder. Alternative to Wix, WordPress, Squarespace with one-click Shopify integration.",
+  "main": "index.js",
+  "scripts": {
+    "basic": "cd 1-basic-agent && npm start",
+    "hybrid": "cd 2-grapejs-hybrid && npm start"
+  },
+  "keywords": [
+    "ai-website-builder",
+    "small-business-website",
+    "wix-alternative",
+    "wordpress-alternative",
+    "squarespace-alternative",
+    "webflow-alternative",
+    "lovable-alternative",
+    "bolt alternative",
+    "shopify-integration",
+    "web-design",
+    "no-code",
+    "low-code",
+    "grapesjs",
+    "claude-ai",
+    "conversational-ai",
+    "drag-and-drop",
+    "website-generator",
+    "landing-page-builder",
+    "ecommerce-builder",
+    "shopify-storefront",
+    "headless-shopify",
+    "ai-web-design",
+    "website-builder",
+    "vibe-coding"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ncr5012/vibe-otter-lite.git"
+  },
+  "author": "Vibe Otter",
+  "license": "Apache-2.0",
+  "homepage": "https://vibeotter.com"
+}

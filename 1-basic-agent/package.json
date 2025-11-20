@@ -1,0 +1,21 @@
+{
+  "name": "vibe-otter-lite-basic-agent",
+  "version": "1.0.0",
+  "description": "Basic AI website builder using Claude API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": ["ai", "website-builder", "claude", "no-code"],
+  "author": "Vibe Otter",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
